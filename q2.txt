@@ -1,0 +1,9 @@
+var Circle = function(r){this.radius = r;};
+Circle.prototype.area = function () {
+return math.PI * this.radius * this.radius;}
+var c = new Circle(10); 
+
+The value of c.constructor is: function(r){this.radius;}
+
+The own properties of c are: radius
+the enumerable proerties of c are: also radius

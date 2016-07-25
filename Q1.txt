@@ -1,0 +1,5 @@
+var country = {Name:"France" Continent:"Europe" Lang:"French"}
+var restaurant = {Name:"Sally's" Style:"Diner" Prices:"cheap"}
+var musicAlbum = {bandName:"Iron Maiden" albumName:"Powerslave" style:"Metal"}
+var basketballTeam = {Name:"Lakers" City:"Los Angeles" Conference:"Western"}
+var Movie = {Name:"Alien" releaseDate:"1979" Genre:"Horror"}
